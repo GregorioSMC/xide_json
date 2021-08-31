@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "temp": "15",
+      "hum": "55"
     }
   ],
   "profile": {
